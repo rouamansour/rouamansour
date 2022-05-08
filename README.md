@@ -4,8 +4,7 @@
 - 🌱 I’m currently learning **computer system development**
 
 - 📫 How to reach me : 
-<a href="https://dev.to/rouamansour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rouamansour" height="20" width="20" /></a>
-<a href="https://discord.gg/#1935" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#1935" height="30" width="30" /></a>
+<p>rouamansour.rm@gmail.com</p>
 <a href="https://linkedin.com/in/roua mansour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roua mansour" height="20" width="20" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
