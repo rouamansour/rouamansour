@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roua Mansour</h1>
 <h3 align="center">A passionate frontend and backend developer from Tunisia</h3>
 
-- 🌱 I’m currently learning **computer system development**
+- 🌱 I'm a Frontend Software Developer
 
 - 📫 How to reach me **rouamansour.work@gmail.com**
 
