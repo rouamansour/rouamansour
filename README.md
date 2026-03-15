@@ -12,8 +12,7 @@
 
 ### 👩‍💻 About me
 
-- 🎯 &nbsp;Full-Stack Software Developer (Frontend + Backend)
-- 🌱 &nbsp;Currently exploring **Docker**, **CI/CD** and **React Query**
+- 🎯 &nbsp;I'm a Software Developer
 - 🤝 &nbsp;Open to collaborating on interesting projects
 - 📫 &nbsp;Reach me at **rouamansour.work@gmail.com**
 
