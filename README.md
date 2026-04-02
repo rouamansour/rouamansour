@@ -45,9 +45,3 @@
 </p>
 
 ---
-
-### 📊 Most Used Languages
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rouamansour&show_icons=true&locale=en&layout=compact&theme=default" alt="rouamansour" />
-</p>
